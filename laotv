@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:-1,LNTV1
+https://edge1.laotv.la/live/LNTV1/index.m3u8
+#EXTINF:-1,LNTV3
+https://edge2.laotv.la/live/LNTV3/index.m3u8
+#EXTINF:-1,LaoStar
+https://edge2.laotv.la/live/LaoStar/index.m3u8
+#EXTINF:-1,VTE9
+https://edge2.laotv.la/live/VTE9/index.m3u8
+#EXTINF:-1,LATV
+https://edge1.laotv.la/live/LATV/index.m3u8
+#EXTINF:-1,PSTV
+https://edge1.laotv.la/live/PSTV/index.m3u8
+#EXTINF:-1,VTV1
+https://edge1.laotv.la/live/VTV1HD/index.m3u8
+#EXTINF:-1,Vnews
+https://edge2.laotv.la/live/Vnews/index.m3u8
+#EXTINF:-1,VTV3
+https://edge2.laotv.la/live/VTV3/index.m3u8
+#EXTINF:-1,Lao ESTV
+https://edge1.laotv.la/live/LaoESTV/index.m3u8
+#EXTINF:-1,XKH
+https://edge1.laotv.la/live/XKH/index.m3u8
+#EXTINF:-1,CHCA NEWS
+https://edge2.laotv.la/live/CHCA/index.m3u8
+#EXTINF:-1,Longxiang
+https://edge1.laotv.la/live/Longxiang/index.m3u8
+#EXTINF:-1,AomenLotus
+https://edge1.laotv.la/live/AomenLotus/index.m3u8
+#EXTINF:-1,DongsenForeignMovie
+https://edge1.laotv.la/live/DongsenForeignMovie/index.m3u8
+#EXTINF:-1,ALJazeera
+https://edge1.laotv.la/live/ALJazeera/index.m3u8
+#EXTINF:-1,LPB TV
+https://edge2.laotv.la/live/LPBTV/index.m3u8
+#EXTINF:-1,BosiGolf
+https://edge2.laotv.la/live/BosiGolf/index.m3u8
+#EXTINF:-1,CCTV1
+https://edge1.laotv.la/live/CCTV1/index.m3u8
+#EXTINF:-1,CCTV5
+https://edge1.laotv.la/live/CCTV5+/index.m3u8
+#EXTINF:-1,CCTV7
+https://edge1.laotv.la/live/CCTV7/index.m3u8
+#EXTINF:-1,CCTV10
+https://edge2.laotv.la/live/CCTV10/index.m3u8
+#EXTINF:-1,CCTV12
+https://edge1.laotv.la/live/CCTV12/index.m3u8
+#EXTINF:-1,China Movie
+https://edge2.laotv.la/live/ChinaMovie/index.m3u8
+#EXTINF:-1,Star Movies
+https://edge2.laotv.la/live/StarMovie/index.m3u8
+#EXTINF:-1,DongsenMovie
+https://edge1.laotv.la/live/DongsenMovie/index.m3u8
+#EXTINF:-1,MVLao
+https://edge2.laotv.la/live/MVLao/index.m3u8
+#EXTINF:-1,PhxChinese
+https://edge2.laotv.la/live/PhxChinese/index.m3u8
+#EXTINF:-1,PhoenixNews
+https://edge1.laotv.la/live/PhoenixNews/index.m3u8
+#EXTINF:-1,ABCA
+https://edge2.laotv.la/live/ABCA/index.m3u8
+#EXTINF:-1,NHK World
+https://edge2.laotv.la/live/NHK/index.m3u8
+#EXTINF:-1,Sun TV
+https://edge2.laotv.la/live/SunTV/index.m3u8
+#EXTINF:-1,KBS World
+https://edge1.laotv.la/live/KBS/index.m3u8
