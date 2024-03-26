@@ -23,11 +23,11 @@ https://edge1.laotv.la/live/LaoESTV/index.m3u8
 https://edge1.laotv.la/live/XKH/index.m3u8
 #EXTINF:-1,CHCA NEWS
 https://edge2.laotv.la/live/CHCA/index.m3u8
-#EXTINF:-1,Longxiang
+#EXTINF:-1,龙祥时代
 https://edge1.laotv.la/live/Longxiang/index.m3u8
 #EXTINF:-1,AomenLotus
 https://edge1.laotv.la/live/AomenLotus/index.m3u8
-#EXTINF:-1,DongsenForeignMovie
+#EXTINF:-1,东森电影台
 https://edge1.laotv.la/live/DongsenForeignMovie/index.m3u8
 #EXTINF:-1,ALJazeera
 https://edge1.laotv.la/live/ALJazeera/index.m3u8
@@ -49,13 +49,13 @@ https://edge1.laotv.la/live/CCTV12/index.m3u8
 https://edge2.laotv.la/live/ChinaMovie/index.m3u8
 #EXTINF:-1,Star Movies
 https://edge2.laotv.la/live/StarMovie/index.m3u8
-#EXTINF:-1,DongsenMovie
+#EXTINF:-1,东森新闻台
 https://edge1.laotv.la/live/DongsenMovie/index.m3u8
 #EXTINF:-1,MVLao
 https://edge2.laotv.la/live/MVLao/index.m3u8
-#EXTINF:-1,PhxChinese
+#EXTINF:-1,凤凰中文
 https://edge2.laotv.la/live/PhxChinese/index.m3u8
-#EXTINF:-1,PhoenixNews
+#EXTINF:-1,凤凰新闻
 https://edge1.laotv.la/live/PhoenixNews/index.m3u8
 #EXTINF:-1,ABCA
 https://edge2.laotv.la/live/ABCA/index.m3u8
